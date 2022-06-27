@@ -1,0 +1,23 @@
+.ed-service {
+    width: 100%;
+    height: 350px;
+    background: url("../../../assets/images/img-02.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ed-service-header-content {
+    width: 100%;
+    height: calc(350px - 88px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ed-service-header-content-text {
+    text-align: center;
+}
+.ed-service-header-content-text h2 {
+    font-size: 75px;
+    color: var(--color-white);
+    font-weight: 300;
+}
