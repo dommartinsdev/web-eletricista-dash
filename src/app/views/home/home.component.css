@@ -26,3 +26,89 @@
     color: var(--color-white);
     font-weight: 300;
 }
+.ed-home-cards img {
+    width: 35px;
+    height: 35px;
+}
+.ed-home-cards h4 {
+    font-weight: 300;
+    color: var(--color-blue);
+}
+.ed-home-cards p {
+    font-weight: 300;
+    color: var(--color-dark-light);
+}
+.ed-home-banner {
+    width: 100%;
+    padding: 80px 0px;
+    background: url('../../../assets/images/img-02.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.ed-home-banner h3 {
+    font-size: 50px;
+    color: var(--color-white);
+    font-weight: 300;
+}
+.ed-home-banner h5 {
+    font-size: 20px;
+    color: var(--color-white);
+}
+.ed-home-banner p {
+    color: var(--color-white);
+    font-weight: 300;
+}
+.ed-home-witnesses {
+    padding: 80px 0px;
+}
+.ed-home-witnesses h2 {
+    font-size: 50px;
+    color: var(--color-blue);
+    font-weight: 300;
+}
+.ed-home-witnesses img {
+    width: 60px;
+    margin-bottom: 25px;
+}
+.ed-home-witnesses p {
+    font-style: italic;
+    color: var(--color-dark-light);
+    font-weight: 300;
+}
+.ed-home-witnesses h5 {
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-blue);
+}
+.ed-home-witnesses h6 {
+    font-size: 20px;
+    font-weight: 300;
+    color: var(--color-dark-light);
+}
+.ed-home-contact {
+    padding: 100px 0px;
+    background: url('../../../assets/images/img-03.png');
+}
+.ed-home-contact h3 {
+    font-size: 40px;
+    font-weight: 300;
+    color: var(--color-white);
+    margin-bottom: 25px;
+}
+@media (max-width: 575.98px) {
+    .ed-home-banner h3 {
+        font-size: 40px;
+    }
+    .ed-home-banner h5 {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 767.98px) {
+    .ed-home-witnesses h6 {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1399.98px) {}

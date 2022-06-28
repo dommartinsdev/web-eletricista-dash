@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" src=".github/brand.svg" />
+    <img alt="" title="" src="github/brand.svg" width="35%"/>
 </h1>
 
 <p align="center">
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="" src=".github/banner.png" width="100%">
+  <img alt="" src="github/banner.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Descrição
+Eletricista Dash realiza instalação elétrica, quadro de luz, transformação 110v para 220v, troca da fiação, quadro de distribuição de energia, disjuntores, instalação e manutenção na rede elétrica, predial e residencial. Realizamos serviços emergenciais, eletricista 24 horas.
 
 ## 🚀 Start Projeto
 
@@ -45,6 +45,10 @@ Descrição
 - Inicie o servidor com `ng serve`
 
 Agora você pode acessar [`localhost:4200`](http://localhost:4200) do seu navegador.
+
+## 🌐 Implementação no Netlify
+
+Acesse [`https://web-eletricista-dash.netlify.app/`](https://web-eletricista-dash.netlify.app/) do seu navegador.
 
 ## 📝 Licença
 
