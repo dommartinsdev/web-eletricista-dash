@@ -48,7 +48,7 @@ Agora você pode acessar [`localhost:4200`](http://localhost:4200) do seu navega
 
 ## 🌐 Implementação no Netlify
 
-Acesse [`https://web-eletricista-dash.netlify.app/`](https://web-eletricista-dash.netlify.app/) do seu navegador.
+Acesse [`https://web-eletricista-dash.herokuapp.com/`](https://web-eletricista-dash.herokuapp.com/) do seu navegador.
 
 ## 📝 Licença
 
@@ -56,4 +56,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com por Jessé Martin
+Feito com por Jessé Martins
