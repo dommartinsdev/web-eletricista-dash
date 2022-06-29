@@ -8,4 +8,14 @@
         </section>
     </section>
 </header>
+<section class="ed-service-cards">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6" *ngFor="let service of services">
+                <h3>{{service.title}}</h3>
+                <p>{{service.description}}</p>
+            </div>
+        </div>
+    </div>
+</section>
 
