@@ -3,3 +3,15 @@
     font-size: 18px;
     font-weight: 300;
 }
+.ea-footer .nav-link {
+    font-size: 18px;
+    color: var(--color-blue);
+}
+.ea-user img {
+    margin: 0px 10px 0px 5px;
+}
+@media (max-width: 575.98px) {}
+@media (max-width: 767.98px) {}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1399.98px) {}
