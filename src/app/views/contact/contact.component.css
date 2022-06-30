@@ -21,3 +21,43 @@
     color: var(--color-white);
     font-weight: 300;
 }
+.ed-contact-form {
+    padding: 80px 0px;
+}
+.ed-contact-form h4 {
+    text-align: right;
+    color: var(--color-blue);
+    font-weight: 300;
+}
+.ed-contact-form h2 {
+    font-size: 40px;
+    text-align: right;
+    font-weight: 600;
+    color: var(--color-blue);
+}
+.ed-contact-form p {
+    text-align: right;
+    font-weight: 300;
+    color: var(--color-dark-light);
+    font-size: 18px;
+}
+.ed-btn {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+}
+
+@media (max-width: 575.98px) {}
+@media (max-width: 767.98px) {
+    .ed-contact-form {
+        padding: 40px 0px;
+    }
+    .ed-contact-form, h4, h2, p {
+        text-align: left !important;
+    }
+    .ed-contact-form p {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 991.98px) {}
+@media (max-width: 1199.98px) {}
+@media (max-width: 1399.98px) {}
